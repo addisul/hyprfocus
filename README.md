@@ -1,6 +1,6 @@
 #        <div align = center>                               【Hyprfocus】
 
-This is my personal configuration for [Hyprland](https://github.com/hyprwm/Hyprland), a dynamic tiling Wayland compositor. My setup focuses on speed, minimalism, and usability with dynamic workspaces and essential tools for productivity.
+Hyprfocus is my personal configuration  of [Hyprland](https://github.com/hyprwm/Hyprland), a dynamic tiling Wayland compositor. This config focuses on speed, minimalism, and usability with dynamic workspaces and essential tools for productivity.
 
 ---
 
