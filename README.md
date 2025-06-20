@@ -1,17 +1,16 @@
 #        <div align = center>                               【Hyprfocus】
 
-Hyprfocus is my personal configuration  of [Hyprland](https://github.com/hyprwm/Hyprland), a dynamic tiling Wayland compositor. This config focuses on speed, minimalism, and usability with dynamic workspaces and essential tools for productivity.
+Hyprfocus is my personal configuration  of [Hyprland](https://github.com/hyprwm/Hyprland) (EndeavorOS), a dynamic tiling Wayland compositor. This config focuses on speed, minimalism, and usability, featuring dynamic workspaces and essential tools for productivity.
 
 ---
 
 ## ✨ Features
 
 - ⚡ **Dynamic Workspaces** — Workspaces are created and destroyed on demand.
-- 🎨 Clean, minimal configuration focused on usability and performance.
-- 🖥️ **Waybar** — best
+- 🖥️ **Waybar** — config and style
 - 🔍 **Rofi** — application launcher (more customizable than wofi)
 - 📁 **Dolphin** — default file manager.
-- ✍️ **Vim** — My go-to text editor for development and configuration.
+- ✍️ **Vim** — vim > emacs.
   
 
 
